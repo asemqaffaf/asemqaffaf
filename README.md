@@ -8,6 +8,8 @@
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' width='70' height='60'/>
 
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/fastapi.svg' alt='fastapi' width='70' height='60'/>
+
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' width='70' height='60'/>
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flask.svg' alt='flask' width='70' height='60'/>
@@ -30,6 +32,8 @@
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/graphql.svg' alt='graphql' width='70' height='60'/>
 
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/terraform.svg' alt='terraform' width='70' height='60'/>
+
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/serverless.svg' alt='serverless' width='70' height='60'/>
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' width='70' height='60'/>
@@ -43,6 +47,16 @@
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/heroku.svg' alt='heroku' width='70' height='60' />
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stripe.svg' alt='stripe' width='70' height='60' />
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/dialogflow.svg' alt='dialogflow' width='70' height='60' />
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg' alt='tensorflow' width='70' height='60' />
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/pandas.svg' alt='pandas' width='70' height='60' />
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/keras.svg' alt='keras' width='70' height='60' />
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/numpy.svg' alt='numpy' width='70' height='60' />
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' width='70' height='60' />
 
