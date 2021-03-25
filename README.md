@@ -7,14 +7,13 @@
 <h3 align='center'>Tech I have Experience with</h3>
 <p align='center'>
 
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' width='70' height='60' />
-
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' width='70' height='60'/>
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' width='70' height='60'/>
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flask.svg' alt='flask' width='70' height='60'/>
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' width='70' height='60' />
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' width='70' height='60'/>
 
@@ -22,15 +21,15 @@
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node' width='70' height='60' />
 
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' width='70' height='60' />
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg' alt='kubernetes' width='70' height='60' />
+
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg' alt='redux' width='70' height='60' />
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/electron.svg' alt='electron' width='70' height='60' />
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/graphql.svg' alt='graphql' width='70' height='60'/>
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' width='70' height='60' />
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg' alt='kubernetes' width='70' height='60' />
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/serverless.svg' alt='serverless' width='70' height='60'/>
 
@@ -87,5 +86,5 @@
 </p>
 
 <p align='center'>
-  <a href='https://simpleicons.org/'>Icons</a> •
+  •<a href='https://simpleicons.org/'>Icons</a>
 </p>
