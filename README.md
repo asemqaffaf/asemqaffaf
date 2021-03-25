@@ -21,13 +21,13 @@
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node' width='70' height='60' />
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' width='70' height='60' />
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg' alt='kubernetes' width='70' height='60' />
-
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg' alt='redux' width='70' height='60' />
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/electron.svg' alt='electron' width='70' height='60' />
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' width='70' height='60' />
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg' alt='kubernetes' width='70' height='60' />
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/graphql.svg' alt='graphql' width='70' height='60'/>
 
