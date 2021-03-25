@@ -1,6 +1,4 @@
-<p align='center'>
-  <img src='./resources/header.png' />
-</p>
+<h1 align='center'>Asem Qaffaf</h1>
 
 <h2 align='center'>I'm a full-stack software engineer and AI specialist engineer</h2>
 
