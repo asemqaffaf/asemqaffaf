@@ -86,5 +86,5 @@
 </p>
 
 <p align='center'>
-  •<a href='https://simpleicons.org/'>Icons</a>
+  <a href='https://simpleicons.org/'>Icons</a>
 </p>
