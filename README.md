@@ -1,5 +1,3 @@
-<h1 align='center'>Asem Qaffaf</h1>
-
 <h2 align='center'>I'm a full-stack software engineer and AI specialist engineer</h2>
 
 <br/>
@@ -74,7 +72,6 @@
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg' alt='npm' width='70' height='60' />
 </p>
 
-<br/>
 <h3 align='center'>Connect with Me</h3>
 <p align='center'>
 <a href='https://github.com/asemqaffaf'>
