@@ -7,14 +7,14 @@
 <br/>
 
 
-<h3 align='center'>Tech I have Experience and Enjoy with</h3>
+<h3 align='center'>Tech I have Experience with</h3>
 <p align='center'>
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' width='70' height='60'/>
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' width='70' height='60'/>
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' width='70' height='60'/>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' width='70' height='60' color='red'/>
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' width='70' height='60'/>
 
