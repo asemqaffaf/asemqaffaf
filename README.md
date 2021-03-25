@@ -2,7 +2,6 @@
 
 <h2 align='center'>I'm a full-stack software engineer and AI specialist engineer</h2>
 
-<br/>
 
 <h3 align='center'>Tech I have Experience with</h3>
 <p align='center'>
