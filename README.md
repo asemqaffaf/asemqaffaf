@@ -98,12 +98,12 @@
 </p>
 
 <br/>
-<h3 align='center'>Connect with Me</h3>
+<h4 align='center'>Connect with Me</h4>
 <p align='center'>
 <a href='https://github.com/asemqaffaf'>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='70' height='60'/>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='60' height='50'/>
 </a>
 <a href='https://twitter.com/AsemQaffaf'>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' width='70' height='60'/>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' width='60' height='50'/>
 </a>
 </p>
