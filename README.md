@@ -97,7 +97,7 @@
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg' alt='npm' width='70' height='60' />
 </p>
 
-<p align='center'>---------------</p>
+<hr/>
 <h4 align='center'>Connect with Me</h4>
 <p align='center'>
 <a href='https://github.com/asemqaffaf'>
