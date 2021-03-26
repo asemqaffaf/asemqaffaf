@@ -3,7 +3,7 @@
 <h2 align='center'>I'm a full-stack software engineer and AI specialist engineer</h2>
 
 
-<h3 align='center'>Tech I have Experience with</h3>
+<h4 align='center'>Tech I have Experience with</h4>
 <p align='center'>
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' width='70' height='60'/>
@@ -20,7 +20,7 @@
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/next-dot-js.svg' alt='next' width='70' height='60' />
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node' width='70' height='60' />
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='nodejs' width='70' height='60' />
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg' alt='redux' width='70' height='60' />
 
@@ -64,9 +64,19 @@
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/swift.svg' alt='swift' width='70' height='60' />
 
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/macos.svg' alt='macos' width='70' height='60' />
+
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' width='70' height='60' />
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' width='70' height='60' />
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/amazondynamodb.svg' alt='amazondynamodb' width='70' height='60' />
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/couchbase.svg' alt='couchbase' width='70' height='60' />
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/mysql.svg' alt='mysql' width='70' height='60' />
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/postgresql.svg' alt='postgresql' width='70' height='60' />
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' width='70' height='60'/>
 
