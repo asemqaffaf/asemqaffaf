@@ -1,6 +1,6 @@
 <h1 align='center'>Asem Qaffaf</h1>
 
-<h2 align='center'>I'm a full-stack software engineer and AI engineer</h2>
+<h2 align='center'>I'm a full-stack software engineer</h2>
 
 
 <h4 align='center'>Tech I have Experience with</h4>
