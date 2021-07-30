@@ -60,8 +60,6 @@
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' width='70' height='60' />
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/swift.svg' alt='swift' width='70' height='60' />
-
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/macos.svg' alt='macos' width='70' height='60' />
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' width='70' height='60' />
