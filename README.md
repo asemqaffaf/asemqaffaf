@@ -20,7 +20,6 @@
   <img src='https://cdn.simpleicons.org/graphql/white' alt='graphql' width='70' height='60'/>
   <img src='https://cdn.simpleicons.org/terraform/white' alt='terraform' width='70' height='60'/>
   <img src='https://cdn.simpleicons.org/serverless/white' alt='serverless' width='70' height='60'/>
-  <img src='https://cdn.simpleicons.org/heroku/white' alt='heroku' width='70' height='60' />
   <img src='https://cdn.simpleicons.org/stripe/white' alt='stripe' width='70' height='60' />
   <img src='https://cdn.simpleicons.org/dialogflow/white' alt='dialogflow' width='70' height='60' />
   <img src='https://cdn.simpleicons.org/tensorflow/white' alt='tensorflow' width='70' height='60' />
