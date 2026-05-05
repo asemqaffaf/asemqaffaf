@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Asem%20Qaffaf&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Frontend%20Core%20Architect&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+enterprise+frontend+%F0%9F%87%AF%F0%9F%87%B5;Monorepo+architecture+%E2%86%92+modular+frameworks;TypeScript+%7C+Rust+%7C+Next.js+%7C+Design+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+enterprise+systems+%F0%9F%87%AF%F0%9F%87%B5;Monorepo+architecture+%E2%86%92+modular+frameworks;TypeScript+%7C+Rust+%7C+Next.js+%7C+Design+Systems)](https://git.io/typing-svg)
 
 </div>
 
